@@ -1,6 +1,5 @@
-# Contact Form - Dockerized (Nginx)
 
-This is a static website (HTML + CSS) served using **Nginx** in a Docker container.
+This is a static website (HTML + CSS) .
 
 ## 📂 Project Structure
 
@@ -8,4 +7,3 @@ contact-form/
 │
 ├── index.html # Main HTML file
 ├── style.css # CSS styling
-└── Dockerfile # Docker build instructions
